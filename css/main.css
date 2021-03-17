@@ -1,1 +1,21 @@
+ {
+  margin: 0;
+  padding: 0;
+}
 
+body {
+  background-color: blanchedalmond;
+}
+.hero {
+  width: 100vw;
+  height: 21.875rem;
+  background-color: red;
+  background-image: url("../img/pa.png");
+}
+picture {
+  max-width: 100%;
+}
+.picture_img {
+  width: 700px;
+  height: 400px;
+}
