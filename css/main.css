@@ -1,4 +1,4 @@
- {
+* {
   margin: 0;
   padding: 0;
 }
@@ -7,15 +7,13 @@ body {
   background-color: blanchedalmond;
 }
 .hero {
+  background-image: url(../img/pa.png);
   width: 100vw;
-  height: 21.875rem;
-  background-color: red;
-  background-image: url("../img/pa.png");
+  height: 350px;
 }
-picture {
-  max-width: 100%;
+.titulo_principal {
+  padding-top: 64px;
 }
-.picture_img {
-  width: 700px;
-  height: 400px;
+.parrafo {
+  padding-top: 16px;
 }
